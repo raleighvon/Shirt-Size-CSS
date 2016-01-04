@@ -5,11 +5,9 @@ Who hasn't eyeballed a margin or padding before much to the frustration of the d
 
 [size]-[side*]-[spacing]
 
-**Sizes:** no, xs, small, medium, large, xl, xxl
-
-**Sides:** top, right, bottom, left, vertical, horizontal (* optional)
-
-**Spacing:** margin, padding
+**Sizes:** no, xs, small, medium, large, xl, xxl  
+**Sides:** top, right, bottom, left, vertical, horizontal (* optional)  
+**Spacing:** margin, padding  
 
 Originally created by [Joe Golike](https://github.com/golike)
 
