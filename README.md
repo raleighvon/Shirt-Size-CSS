@@ -1,7 +1,7 @@
 # Shirt Size CSS
 A uniform approach to padding and margin
 
-Who hasn't eyeballed a margin or padding before much to the frustration of the designers? Follow the Shirt Size CSS approach and forget about eyeballing. All you need to do is remember a very simple pattern and get agreement with design on what the base sizes shall be.
+Who hasn't ever eyeballed a margin or padding much to the frustration of the designers? Follow the Shirt Size CSS approach and forget about eyeballing. All you need to do is remember a very simple pattern and also get in agreement with design on what the base sizes shall be. Aside from that try your best to stick to the pattern.
 
 [size]-[side*]-[spacing]
 
