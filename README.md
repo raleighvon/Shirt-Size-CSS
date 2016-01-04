@@ -1,6 +1,16 @@
 # Shirt Size CSS
 A uniform approach to padding and margin
 
+Who hasn't eyeballed a margin or padding before much to the frustration of the designers? Follow the Shirt Size CSS approach and forget about eyeballing. All you need to do is remember a very simple pattern and get agreement with design on what the base sizes shall be.
+
+[size]-[side*]-[spacing]
+
+**Sizes:** no, xs, small, medium, large, xl, xxl
+
+**Sides:** top, right, bottom, left, vertical, horizontal (* optional)
+
+**Spacing:** margin, padding
+
 Originally created by [Joe Golike](https://github.com/golike)
 
 
