@@ -5,11 +5,10 @@ This is a great way to maintain consistent spacing in CSS and works especially w
 
 Who hasn't ever eyeballed margin or padding much to the frustration of designers? Follow the Shirt Size CSS approach and forget about eyeballing. All you need to do is remember a very simple pattern and also get in agreement with design on what the base sizes shall be. Aside from that, try your best to stick to the pattern.
 
-[size]-[side]-[spacing]
-
 **Sizes:** no, xs, small, medium, large, xl, xxl  
 **Sides:** top, right, bottom, left, vertical, horizontal (* optional)  
 **Spacing:** margin, padding  
+**Selector:** [size]-[side]-[spacing]
 
 Originally created by [Joe Golike](https://github.com/golike)
 
